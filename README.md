@@ -2,6 +2,24 @@
 Personal data
 
 
+A simple Java desktop GUI application that collects and displays user data like name, surname, gender, and (optionally) address.
 
-To see the code go to the master branch and go to src.
-if You want to test it on your computer you should click code and download the zip file. After extracting all the files you should go to ypur IDE and click "Open project", after opening the project button responsible for running the code.
+Features
+
+- Input fields for:
+  - First Name
+  - Surname
+  - Gender selection (male/female)
+  - Optional address checkbox
+- Add button to display entries
+- Scrollable output area
+- Clean, minimal Java Swing interface
+
+ Built With
+
+- Java
+- Swing (Java GUI framework)
+
+
+
+
