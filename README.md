@@ -41,6 +41,31 @@ Follow the steps below to set up and run the Java application on your local mach
 
 ```bash
 git clone https://github.com/olexpopov/People.git
-cd People
+cd People 
+```
+###2. Compile the Application
+Using the terminal or command prompt:
 
-   
+```bash
+
+javac People.java
+```
+
+
+###3. Run the Application
+```bash
+
+java People
+```
+
+Running in an IDE (Optional)
+
+  - If you're using an IDE like IntelliJ IDEA or Eclipse:
+  - Open the project folder.
+  - Make sure the JDK is properly configured.
+  - Locate the main class (e.g., People.java) and run it.
+
+
+
+
+
