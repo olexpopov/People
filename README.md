@@ -43,7 +43,7 @@ Follow the steps below to set up and run the Java application on your local mach
 git clone https://github.com/olexpopov/People.git
 cd People 
 ```
-###2. Compile the Application
+### 2. Compile the Application
 Using the terminal or command prompt:
 
 ```bash
@@ -52,7 +52,7 @@ javac People.java
 ```
 
 
-###3. Run the Application
+### 3. Run the Application
 ```bash
 
 java People
